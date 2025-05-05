@@ -1,0 +1,2 @@
+what you read is the funny contetnt of file2 which I have just added on its version on branch funny_branch, so that I perform a pull request!
+Thanks bro!
